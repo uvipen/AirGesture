@@ -56,3 +56,8 @@ Here is the mapping between your gesture and dinosaur's action:
 * **cv2**
 * **tensorflow** 
 * **numpy**
+* **gym**
+* **gym_super_mario_bros**
+* **gym_chrome_dino**
+* **pygame**
+* **opencv**
