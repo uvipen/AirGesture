@@ -19,7 +19,7 @@ Here is the mapping between your gesture and Mario's movement:
 - **Closed hand within the right part** -> Right run
 
 <p align="center">
-  <img src="demo/Super_mario_bros_demo.gif" width=600><br/>
+  <img src="demo/Super_mario_bros_demo.gif" width=700><br/>
   <i>Super Mario Bros</i>
 </p>
 
@@ -34,7 +34,7 @@ Here is the mapping between your gesture and tank's movement:
 - **Closed hand within the left triangle** -> Go down
 
 <p align="center">
-  <img src="demo/Battle_city_demo.gif" width=600><br/>
+  <img src="demo/Battle_city_demo.gif" width=700><br/>
   <i>Battle City</i>
 </p>
 
@@ -42,11 +42,11 @@ Here is the mapping between your gesture and tank's movement:
 The screen is splitted into 2 equal parts vertically.
 Here is the mapping between your gesture and dinosaur's action:
 - **Closed hand** -> Run
-- **Closed hand within the upper part** -> Jump
-- **Closed hand within the lower part** -> Duck
+- **Open hand within the upper part** -> Jump
+- **Open hand within the lower part** -> Duck
 
 <p align="center">
-  <img src="demo/Dinosaur_demo.gif" width=600><br/>
+  <img src="demo/Dinosaur_demo.gif" width=700><br/>
   <i>Dinosaur</i>
 </p>
 
