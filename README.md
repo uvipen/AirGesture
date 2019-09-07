@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Here is my python source code for AirGesture - Play games without touching keyboard. With my code, you could play many games on PC without using any keyboard. At the moment you could play the following games 
+Here is my python source code for AirGesture - Play games without touching keyboard. This project is an application of hand detection model in Tensorflow. With my code, you could play many games on PC without using any keyboard. At the moment you could play the following games 
 * **Super Mario Bros** by running the **script mario.py**
 * **Battle City** by running the script **battle_city.py**
 * **Dinosaur Game** by running the script **dinosaur.py**
